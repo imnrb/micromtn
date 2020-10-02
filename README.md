@@ -1,4 +1,4 @@
-Logr
+Logr - A great project
 ====
  - - -
 
